@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-      <img wide="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kansuorhan&layout=compact&langs_count=8&theme=swift"/>
-</p>
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kansuorhan&theme=swift&show_icons=true)
 ![snake gif](https://github.com/kansuorhan/kansuorhan/blob/output/github-contribution-grid-snake.svg)

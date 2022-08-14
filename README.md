@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kansuorhan&theme=swift&show_icons=true&count_private=true)"/>
-      <img height="90em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kansuorhan&layout=compact&langs_count=8&theme=swift"/>
+      <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kansuorhan&layout=compact&langs_count=8&theme=swift"/>
 </p>
 
 ![snake gif](https://github.com/kansuorhan/kansuorhan/blob/output/github-contribution-grid-snake.svg)

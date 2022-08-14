@@ -15,9 +15,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kansuorhan&show_icons=true&locale=en&layout=compact" alt="kansuorhan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kansuorhan&show_icons=true&locale=en" alt="kansuorhan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kansuorhan&show_icons=true&locale=en" alt="kansuorhan" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kansuorhan&show_icons=true&locale=en&layout=compact" alt="kansuorhan" /></p>
 
 
 ![snake gif](https://github.com/kansuorhan/kansuorhan/blob/output/github-contribution-grid-snake.svg)

@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kansuorhan&theme=swift&show_icons=true)
+
+![<Mail>](https://img.shields.io/badge/<GMail>-<Mavi>?style=for-the-badge&logo=<Mail>&logoColor=<Siyah>)
+
 ![snake gif](https://github.com/kansuorhan/kansuorhan/blob/output/github-contribution-grid-snake.svg)

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kansuorhan&theme=swift&show_icons=true)
 
-![<Mail>](https://img.shields.io/badge/<GMail>-<Mavi>?style=for-the-badge&logo=<Mail>&logoColor=<Siyah>)(kansuorhan@gmail.com)
+![<Mail>](https://img.shields.io/badge/GMail-<Mavi>?style=for-the-badge&logo=<Mail>&logoColor=<Siyah>)](kansuorhan@gmail.com)
   [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/orhan-kansu-36299111b/)
 
 ![snake gif](https://github.com/kansuorhan/kansuorhan/blob/output/github-contribution-grid-snake.svg)

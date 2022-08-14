@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-      <img height="160em" img wide="80em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kansuorhan&layout=compact&langs_count=8&theme=swift"/>
+      <img wide="80em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kansuorhan&layout=compact&langs_count=8&theme=swift"/>
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kansuorhan&theme=swift&show_icons=true)

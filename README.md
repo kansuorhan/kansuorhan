@@ -21,5 +21,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kansuorhan&" alt="kansuorhan" /></p>
 
-<img src="https://raw.githubusercontent.com/NyanKaungSet/Github-Workflow/b2d924b635f0c57f07ec18852ecf97e944af8816/github-contribution-grid-snake.svg">
+https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif
 

@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kansuorhan" alt="kansuorhan" /></a> </p>
 
-<img align=beside width=420 src="https://github.com/kansuorhan/kansuorhan/blob/main/.github/workflows/26540fcc55174e7938110ec14d29a306.gif" />
+<img align=center width=420 src="https://github.com/kansuorhan/kansuorhan/blob/main/.github/workflows/26540fcc55174e7938110ec14d29a306.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

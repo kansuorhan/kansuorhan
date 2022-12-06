@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Orhan</h1>
 <h3 align="center">A enthusiastic learner and develop myself step by step.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kansuorhan&label=Profile%20views&color=0e75b6&style=flat" alt="kansuorhan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kansuorhan&label=Profile%20views&color=0e75b6&style=flat" alt="kansuorhan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kansuorhan" alt="kansuorhan" /></a> </p>
 

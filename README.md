@@ -42,7 +42,7 @@
 <!-- JMeter -->
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="100" height="40"/> </a>
 </p>
-<br> </br>
+
 <p align="center">
 <!-- Maven -->
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="maven" width="100" height="40"/> </a> 
@@ -71,6 +71,7 @@
 <!-- Jenkins -->
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/></a>
 </p>
+<br> </br>
 
 <div>
 <span ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kansuorhan&show_icons=true&locale=en&layout=compact" alt="kansuorhan" width="400" height="140"/>

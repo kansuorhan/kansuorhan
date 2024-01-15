@@ -64,8 +64,6 @@
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
 <!-- XRAY -->
 <a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/65618195?s=200&v=4" alt="xray" width="40" height="40"/> </a>  
- <!-- ClickUp -->
-<a href="https://clickup.com/" target="_blank" rel="noreferrer"> <img src="https://clickup.com/images/for-se-page/clickup.png" alt="clickup" width="45" height="45"/> </a> 
  <!-- Miro -->
 <a href="https://miro.com/tr/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idAnDTFapY/idYC5f2L1X.png" alt="miro" width="40" height="40"/></a>
 <!-- Jenkins -->

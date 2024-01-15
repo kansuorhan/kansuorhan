@@ -81,5 +81,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kansuorhan&" alt="kansuorhan" /></p>
 
-
-![snake gif](https://github.com/kansuorhan/kansuorhan/blob/output/github-contribution-grid-snake.gif)

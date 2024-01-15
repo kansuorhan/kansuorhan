@@ -77,5 +77,5 @@
 <img  align="right" src="https://github-readme-stats.vercel.app/api?username=kansuorhan&show_icons=true&locale=en" alt="kansuorhan" width="400" height="140" /></span>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kansuorhan&" alt="kansuorhan" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=kansuorhan&" alt="kansuorhan" /></p>
 

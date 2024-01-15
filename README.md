@@ -43,7 +43,7 @@
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="100" height="40"/> </a>
 </p>
 
-<p>
+<p align="center">
 <!-- Maven -->
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="maven" width="100" height="40"/> </a> 
 <!-- IntelliJ -->

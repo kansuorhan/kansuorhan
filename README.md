@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kansuorhan&label=Profile%20views&color=0e75b6&style=flat" alt="kansuorhan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kansuorhan" alt="kansuorhan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kansuorhan" alt="kansuorhan" /></a> </p>
 
 <img align="center" width=420 src="https://github.com/kansuorhan/kansuorhan/blob/main/.github/workflows/26540fcc55174e7938110ec14d29a306.gif" />
 

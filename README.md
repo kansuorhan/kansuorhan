@@ -70,16 +70,13 @@
 <a href="https://miro.com/tr/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idAnDTFapY/idYC5f2L1X.png" alt="miro" width="40" height="40"/></a>
 <!-- Jenkins -->
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/></a>
-
-
- 
 </p>
 
-<span >
+<div>
 <span align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kansuorhan&show_icons=true&locale=en&layout=compact" alt="kansuorhan" /></span>
 
 <span align="right"><img src="https://github-readme-stats.vercel.app/api?username=kansuorhan&show_icons=true&locale=en" alt="kansuorhan" /></span>
-</span >
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kansuorhan&" alt="kansuorhan" /></p>
 

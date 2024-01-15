@@ -15,8 +15,8 @@
 </p>
 
 
-<h2 align="left">Technical Skills:</h2>
-<p align="left">
+<h2 align="center">Technical Skills:</h2>
+<p align="center">
 <!-- Java -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> </a> 
 <!-- Selenium -->

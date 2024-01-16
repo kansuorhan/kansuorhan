@@ -70,8 +70,8 @@
 <br> </br>
 
 <div>
-<span ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kansuorhan&show_icons=true&locale=en&layout=compact" alt="kansuorhan" width="400" height="140"/>
-<img  align="right" src="https://github-readme-stats.vercel.app/api?username=kansuorhan&show_icons=true&locale=en" alt="kansuorhan" width="400" height="140" /></span>
+<span ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kansuorhan&show_icons=true&locale=en&layout=compact" alt="kansuorhan" width="400" height="240"/>
+<img  align="right" src="https://github-readme-stats.vercel.app/api?username=kansuorhan&show_icons=true&locale=en" alt="kansuorhan" width="400" height="240" /></span>
 </div>
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=kansuorhan&" alt="kansuorhan" /></p>

@@ -83,7 +83,7 @@
 <br> </br>
 
 <div>
-<span ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kansuorhan&show_icons=true&locale=en&layout=compact" alt="kansuorhan" width="380" height="190"/>
+<span ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kansuorhan&show_icons=true&locale=en&layout=compact" alt="kansuorhan" width="380" height="185"/>
 <img  align="right" src="https://github-readme-stats.vercel.app/api?username=kansuorhan&show_icons=true&locale=en&include_all_commits=true" alt="kansuorhan" width="400" height="190" /></span>
 </div>
 
